@@ -10,8 +10,9 @@ const Footer = () => {
       <div>
         <Typography variant="h5">About Me</Typography>
         <Typography>
-          Hey, my name is Abhishek Singh. I am a Full-Stack Developer and a
-          tutorial on Youtube channel called <b> 6 Pack Programmer</b>
+          Hey, My name is Rajani Kant Sharma, 
+          Software Engineer(Expertise in RPA-Blue Prism)at TietoEVRY, Ex-IBMer, Knowledge of UiPath, Operations, 
+          Production, Service Now,Data Structure and Algorithm in JavaScript, ReactJs, ExpressJs, MERN 
         </Typography>
 
         <Link to="/contact" className="footerContactBtn">
@@ -20,16 +21,16 @@ const Footer = () => {
       </div>
       <div>
         <Typography variant="h6">Social Media</Typography>
-        <a href="https://github.com/meabhisingh/" target="black">
+        <a href="https://github.com/JaiSriRam1506/" target="black">
           <BsGithub />
         </a>
-        <a href="https://youtube.com/6packprogrammer/" target="black">
+        <a href="https://youtube.com/ProGAMER/" target="black">
           <BsYoutube />
         </a>
-        <a href="https://instagram.com/meabhisingh/" target="black">
+        <a href="https://instagram.com/rajanikant097/" target="black">
           <BsInstagram />
         </a>
-        <a href="https://www.linkedin.com/in/meabhisingh/" target="black">
+        <a href="https://www.linkedin.com/in/rajani-kant-sharma-b44a12104/" target="black">
           <BsLinkedin />
         </a>
       </div>

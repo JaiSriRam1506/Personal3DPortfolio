@@ -123,21 +123,21 @@ const Home = ({ timelines, youtubes, skills }) => {
 
       <div className="homeCanvasContainer">
         <Typography variant="h1">
+          <p>R</p>
           <p>A</p>
-          <p>B</p>
-          <p>H</p>
+          <p>J</p>
+          <p>A</p>
+          <p>N</p>
           <p>I</p>
-          <p>S</p>
-          <p>H</p>
-          <p>E</p>
           <p>K</p>
+          <p>A</p>
+          <p>N</p>
+          <p>T</p>
         </Typography>
 
         <div className="homeCanvasBox">
-          <Typography variant="h2">DESIGNER</Typography>
-          <Typography variant="h2">DEVELOPER</Typography>
-          <Typography variant="h2">TEACHER</Typography>
-          <Typography variant="h2">CONTENT CREATOR</Typography>
+          <Typography variant="h2">RPA MERN DEVELOPER</Typography>
+          <Typography variant="h2">DSA LEARNER</Typography>
         </div>
 
         <Link to="/projects">VIEW WORK</Link>
